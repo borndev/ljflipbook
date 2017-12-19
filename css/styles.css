@@ -792,3 +792,6 @@ button[type=button] {min-height:24px; min-width:40px;box-shadow: 0 0 10px 0 rgba
 .tableofcontent{
     right:48px;
 }
+@media (max-width:480px) {
+#frmMain{top:2%;}
+}
