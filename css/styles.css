@@ -765,6 +765,7 @@ top: 50%;right: 0;text-align: center;transform: translateY(-56%);line-height: 1;
    top:65%; 
 }
 .lj-article-close {display: none}
+.lg-mob-only{display: none;}
 
 /*.lj-category-article span{display: none;}*/
 
